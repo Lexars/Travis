@@ -7,4 +7,4 @@ script:
 - dotnet restore
 - dotnet test ./TestRomainConvert/TestRomainConvert.csproj 
 - dotnet build -c Release 
-- dotnet publish -c Release -o ./TestRomainConvert/publish
+- dotnet publish -c Release -o ./RomainConvert/publish
