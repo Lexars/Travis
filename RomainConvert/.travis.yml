@@ -1,13 +1,10 @@
 language: csharp
 solution: RomainConvert.sln
-mono: none
-dotnet: 2.0.0
-dist: trusty
-script:
- - dotnet restore
- - dotnet test ./TestRomainConvert/TestRomainConvert.csproj
- - dotnet build -c Release
- - dotnet publish -c Release -o ./TestRomainConvert/publish
-deploy:
-on:
-tags: true
+mono: none 
+dotnet: 2.0.0 
+dist: trusty 
+script: 
+- dotnet restore
+- dotnet test ./TestRomainConvert/TestRomainConvert.csproj 
+- dotnet build -c Release 
+- dotnet publish -c Release -o ./TestRomainConvert/publish
