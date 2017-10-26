@@ -1,0 +1,10 @@
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\RomainConvert\bin\Debug\netcoreapp1.1\RomainConvert.deps.json
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\RomainConvert\bin\Debug\netcoreapp1.1\RomainConvert.runtimeconfig.json
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\RomainConvert\bin\Debug\netcoreapp1.1\RomainConvert.runtimeconfig.dev.json
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\RomainConvert\bin\Debug\netcoreapp1.1\RomainConvert.dll
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\RomainConvert\bin\Debug\netcoreapp1.1\RomainConvert.pdb
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\RomainConvert\obj\Debug\netcoreapp1.1\RomainConvert.csprojResolveAssemblyReference.cache
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\RomainConvert\obj\Debug\netcoreapp1.1\RomainConvert.csproj.CoreCompileInputs.cache
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\RomainConvert\obj\Debug\netcoreapp1.1\RomainConvert.AssemblyInfo.cs
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\RomainConvert\obj\Debug\netcoreapp1.1\RomainConvert.dll
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\RomainConvert\obj\Debug\netcoreapp1.1\RomainConvert.pdb

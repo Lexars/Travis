@@ -1,0 +1,17 @@
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\bin\Debug\netcoreapp1.1\TestRomainConvert.deps.json
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\bin\Debug\netcoreapp1.1\TestRomainConvert.runtimeconfig.json
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\bin\Debug\netcoreapp1.1\TestRomainConvert.runtimeconfig.dev.json
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\bin\Debug\netcoreapp1.1\TestRomainConvert.dll
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\bin\Debug\netcoreapp1.1\TestRomainConvert.pdb
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\bin\Debug\netcoreapp1.1\LibraryRomainConvert.dll
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\bin\Debug\netcoreapp1.1\RomainConvert.dll
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\bin\Debug\netcoreapp1.1\LibraryRomainConvert.pdb
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\bin\Debug\netcoreapp1.1\RomainConvert.pdb
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\obj\Debug\netcoreapp1.1\TestRomainConvert.csprojResolveAssemblyReference.cache
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\obj\Debug\netcoreapp1.1\TestRomainConvert.csproj.CoreCompileInputs.cache
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\obj\Debug\netcoreapp1.1\TestRomainConvert.AssemblyInfo.cs
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\obj\Debug\netcoreapp1.1\TestRomainConvert.dll
+c:\users\lexars\documents\visual studio 2017\Projects\RomainConvert\TestRomainConvert\obj\Debug\netcoreapp1.1\TestRomainConvert.pdb
